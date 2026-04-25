@@ -8,6 +8,12 @@
 
 ---
 
+## ⚠ Warning
+
+I am aware of the fact that this project is being flagged as a trojan by various Anti-Virus services. This is due to the way it uses the Windows API to execute the key presses required to play tracks. This is the official version of the project and has no malicious files attached to it. I welcome anyone who can and wants to fix this false flag to create a pull request with the updated code, but I am not actively maintaining this resource and thus will not look into solving it. 
+
+To all the people that tried to use it or are using it I really appreicate the fact that you enjoyed this little coding project of mine :)
+
 ## ✨ Features
 
 - 🎵 Autoplays `.txt` song sheets from your PC
